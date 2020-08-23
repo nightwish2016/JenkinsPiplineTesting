@@ -1,0 +1,9 @@
+C:\a\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\a\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\a\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\a\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csprojAssemblyReference.cache
+C:\a\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\a\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\a\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\a\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\a\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
